@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =8
+let g:netrw_dirhist_8='/home/mankey'
+let g:netrw_dirhist_7='/home/mankey/.tmux/plugins/tpm/scripts'
+let g:netrw_dirhist_6='/home/mankey/.tmux/plugins/tpm'
+let g:netrw_dirhist_5='/home/mankey/.tmux/plugins'
+let g:netrw_dirhist_4='/home/mankey/.tmux'
+let g:netrw_dirhist_3='/home/mankey'
+let g:netrw_dirhist_2='/home/mankey/.newsboat'
+let g:netrw_dirhist_1='/home/mankey'
